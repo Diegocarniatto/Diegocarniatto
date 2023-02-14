@@ -1,6 +1,6 @@
 ##  Boas vindas ao meu perfil 😀
 
-Meu nome é Diego Veneno Carniatto, atualmente sou estudante de programação na escola Trybe onde estou aprendendo a utilizar várias ferramentas e linguagens da maneira mais eficiente possívelível.
+Meu nome é Diego Veneno Carniatto, atualmente sou estudante de programação na escola Trybe onde estou aprendendo a utilizar várias ferramentas e linguagens da maneira mais eficiente possível.
 
 <br>
 
